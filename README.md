@@ -1,4 +1,3 @@
-# HR-ANALATICS-DASHBOARD
 
 # Human Resource Analytics Dashboard
 
